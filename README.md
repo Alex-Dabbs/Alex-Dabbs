@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex-Dabbs
-- 👀 I’m interested in Programming Languages such as Python, SQL, Java and cybersecurity networking and threats. 
+- 👀 I’m interested in Programming Languages such as Python, html and cybersecurity networking and threats. 
 - 🌱 I’m currently learning about cybersecurity and expanding my knowledge on Python. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
