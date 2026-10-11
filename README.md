@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Dabbs
-- 👀 I’m interested in Programming Languages such as Python, html and cybersecurity networking and threats. 
-- 🌱 I’m currently working on independent projects to add to my portfolio. Most of my projects are in Python or HTML/CSS.
+- 👀 I have a background in Cybersecurity and Psychology primarily working in the Governance, Risk, and Compliance setting. 
+- 🌱 Projects listed are old and new. Newer projects focus on GRC / Cybersecurity. 
 
 <!---
 Alex-Dabbs/Alex-Dabbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
